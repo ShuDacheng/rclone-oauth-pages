@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.conf
+*.gpg
+*.sqlite*
+client_secret*.json
+desktop-client*.json
+token*.json
+secrets/

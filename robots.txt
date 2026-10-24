@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shudacheng.github.io/rclone-oauth-pages/sitemap.xml
