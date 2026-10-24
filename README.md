@@ -2,7 +2,9 @@
 
 用于个人 rclone / restic Google Drive 备份流程的公开应用介绍、隐私政策和服务条款。维护者：[Dacheng Shu / ShuDacheng](https://github.com/ShuDacheng)。
 
-## 站点
+## 发布目标与 Google Branding
+
+部署到 GitHub Pages 并确认网址可访问后，将下面的值填写到 Google 控制台。
 
 | Google OAuth Branding 字段 | 值 |
 | --- | --- |
